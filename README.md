@@ -4,6 +4,9 @@
 
 本项目是一个中文项目，由于作者编写相关文档经验不足，如有格式上的指导或建议欢迎在[Issues](https://github.com/zyjOrz/Hand-drawn-Anime-Style-LoRA/issues)中指出
 
+
+---
+
 ## 目录
 
 欢迎访问我的项目！本项目包括几个部分：
