@@ -1,3 +1,3 @@
 # Hand-drawn-Anime-Style-LoRA
 
-![[645d083ab55c4203382a798c7498f4e6_720.jpg]]
+![example.jpg](https://s2.loli.net/2025/02/14/Gc2Yevg37z5jPFm.jpg)
