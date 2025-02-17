@@ -25,6 +25,8 @@ Hand-drawn-Anime-Style-LoRA是一个基于SDXL的拥有生成特定手绘漫画�
 
 模型利用了 LoRA（Low-Rank Adaptation）来进行微调，保留了原始模型的多种功能，并且能够生成更加精细的手绘风格。
 
+同时使用gradio库编写webui, 成功将具有生成特定手绘动漫画风能力的AI上线网站
+
 ---
 
 ## 特性
@@ -43,3 +45,8 @@ Hand-drawn-Anime-Style-LoRA是一个基于SDXL的拥有生成特定手绘漫画�
    cd Hand-drawn-Anime-Style-LoRA
 ```
 
+`train_text_to_image_lora_sdxl.py`用于训练得到lora
+
+`simage.py`用于生图
+
+`gradio_for_it.py`用于生成网站
