@@ -50,3 +50,5 @@ Hand-drawn-Anime-Style-LoRA是一个基于SDXL的拥有生成特定手绘漫画�
 `simage.py`用于生图
 
 `gradio_for_it.py`用于生成网站
+
+![webui.png](https://s2.loli.net/2025/02/17/MuvNdXLFbUWz1hG.png)
