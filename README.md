@@ -39,6 +39,6 @@ Hand-drawn-Anime-Style-LoRA-Expand是一个基于SDXL的拥有生成特定手绘
 
 `train_text_to_image_lora_sdxl.py` 是使用的训练脚本
 
-`gradio_for_it.py` ai应用后端，配备IP_adapter和LCM_lora的功能。
+`gradio_ip.py` ai应用后端，配备IP_adapter和LCM_lora的功能。
 
 ![1ac1acf2df7adb162cbd3ce7ac8e4bec.png](https://s2.loli.net/2025/02/18/2lxh79jFtPSkDdN.png)
